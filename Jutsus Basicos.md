@@ -142,7 +142,7 @@ combate, pois qualquer ninja consegue acompanhar o movimento**.
 ## Tadayou - (Caminhar sobre águas)
 
 * Ninjutsu Rank D / Controle de Chakra
-* Ação: Livre
+* Ação: **Livre**
 * Alcance: Pessoal
 * Duração: Contínua
 * Custo de Chakra: 1
