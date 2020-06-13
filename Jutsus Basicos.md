@@ -43,7 +43,7 @@ Disfarces do usuário. Se for bem-sucedido, a pessoa notará algum
 pequeno erro da transformação, e saberá que se trata de alguém
 utilizando o Henge.
 
-Kai - (Liberar)
+## Kai - (Liberar)
 
 * Ninjutsu Rank D
 * Ação: **Padrão**
@@ -62,7 +62,7 @@ mesmo custo de chakra do Genjutsu a ser cancelado.
 O usuário pode usar a técnica Kai para cancelar seus próprios jutsu,
 sem necessidade de teste ou custo de chakra.
 
-Kawarimi No Jutsu - (Técnica de substituição de corpo)
+## Kawarimi No Jutsu - (Técnica de substituição de corpo)
 
 * Ninjutsu Rank E / Shunjutsu
 * Ação: **Movimento**
@@ -98,7 +98,7 @@ possível usar Kawarimi se estiver desprevenido, fintado ou com
 restrições de movimento (como estar agarrado ou enredado, por
 exemplo).
 
-Kinobori - (Técnica de escalar árvores)
+## Kinobori - (Técnica de escalar árvores)
 
 * Ninjutsu Rank E / Controle de Chakra
 * Ação: **Livre**
@@ -118,7 +118,7 @@ concentração, sendo então necessário um teste de Atletismo para se
 agarrar a algo ou Acrobacia para recuperar o equilíbrio, a depender da
 situação.
 
-Shunshin no jutsu - (Técnica de movimentação instantânea)
+## Shunshin no jutsu - (Técnica de movimentação instantânea)
 
 * Ninjutsu Rank D / Shunjutsu
 * Ação: **Movimento**
@@ -139,7 +139,7 @@ usado pelo personagem para incrementar o jutsu. **É uma técnica
 meramente de apresentação, e não proporciona qualquer vantagem em
 combate, pois qualquer ninja consegue acompanhar o movimento**.
 
-Tadayou - (Caminhar sobre águas)
+## Tadayou - (Caminhar sobre águas)
 
 * Ninjutsu Rank D / Controle de Chakra
 * Ação: Livre
