@@ -20,9 +20,9 @@ ou necessitar compartimento para guarda-la
 
 \+ 1 Compartimento
 
-### Contem
+### Contém
 
-#### Bonbas Luminosas
+#### Bombas Luminosas
 
 * Quantidade: 4
 * Area de efeito: 10m de diametro
@@ -52,7 +52,7 @@ armadilhas ou técnicas de distração. Podem ser **lançadas em kunais**,
 
 \+ 1 Compartimento
 
-### Contem
+### Contém
 
 #### Kunai
 
