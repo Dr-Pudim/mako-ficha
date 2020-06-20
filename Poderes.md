@@ -31,7 +31,7 @@ forma não permite a acumulação com qualquer tipo de benefício (como
 aptidões e uso conjunto com outros efeitos ou poderes, a menos que
 seja expressamente permitido)
 
-#### Orbe
+#### Bomba de Água (Orbe)
 
 * Ação: Padrão
 * Alcance: 14m (10m +2m por nível de Espírito)
