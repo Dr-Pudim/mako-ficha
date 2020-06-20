@@ -36,7 +36,7 @@ seja expressamente permitido)
 * Ação: Padrão
 * Alcance: 14m (10m +2m por nível de Espírito)
 * Área de Efeito: Esfera de 2m de diâmetro
-* Dano: 4 (comum do poder + 2[Elemento Natural])
+* Dano: 3 (1 [comum do poder] + 2[Elemento Natural])
 * Duração: Instantânea
 
 O personagem cria um orbe de 2m de diâmetro e dispara contra o alvo.
