@@ -1,3 +1,7 @@
+# Ryus
+
+8 Ryus
+
 # Armas
 
 ## Manopla
